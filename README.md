@@ -1,5 +1,8 @@
 # partisanprocessingpollingstats contains data and materials for four experiments 
 
+SPSS .sav data files, and txt file with exclusion criteria explained
+PDFs of Experiments (conducted online on Amazon Turk)
+
 Partisan mathematical processing of political polling statistics: 
 It’s the expectations that count 
 Laura Niemi, Department of Psychology, Harvard University

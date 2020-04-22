@@ -1,4 +1,4 @@
-# partisanprocessingpollingstats contains materials (PDFs) of four experiments 
+# partisan_math
 
 PDFs of Experiments (conducted online on Amazon Turk)
 "Partisan mathematical processing of political polling statistics: It’s the expectations that count"
